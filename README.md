@@ -2,9 +2,10 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## About the Project
-
 ![Top Page Screenshot](./screenshot.jpg)
+
+
+## About the Project
 
 This project is based on an online shop for electronics.
 A list of commonly used resources that I find helpful is listed in the acknowledgments.
