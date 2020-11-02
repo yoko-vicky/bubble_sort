@@ -4,9 +4,14 @@
 
 ## About the Project
 
-![Top Page Screenshot](./screenshot.jpg)
+![Bubble Sort Example](./Bubble-sort-example-300px.gif)
 
-This project is based on an online shop for electronics.
+<!-- This project is based on the . -->
+
+Build a method #bubble_sort that takes an array and returns a sorted array without using #sort method.
+We implemented the bubble sort algorithm using yield and passing a block to a method.
+
+
 A list of commonly used resources that I find helpful is listed in the acknowledgments.
 
 ## Table of Contents
@@ -85,6 +90,6 @@ This project is [MIT](./LICENCE) licensed.
 - LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-patel-2a15a6107)
 
 
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
+## Acknowledgments
+* [Ruby-doc](https://ruby-doc.org/core-2.6.5/Enumerable.html)
+* [The Odin Project: BUBBLE SORT](https://www.theodinproject.com/courses/ruby-programming/lessons/bubble-sort)
