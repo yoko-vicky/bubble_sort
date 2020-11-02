@@ -30,6 +30,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   pry (~> 0.13.1)
