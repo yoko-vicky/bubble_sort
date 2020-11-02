@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+
 ## About the Project
 
 ![Bubble Sort Example](./Bubble-sort-example-300px.gif)
@@ -12,8 +13,6 @@ Build a method #bubble_sort that takes an array and returns a sorted array witho
 Also, we created a method #bubble_sort_by which sorts an array by accepting a block using yield.
 In #bubble_sort_by, the block will have two arguments that represent the two elements of the array that are currently being compared. The block’s return will be similar to the spaceship operator.
 We implemented the bubble sort algorithm using yield and passing a block to a method.
-
-A list of commonly used resources that I find helpful is listed in the acknowledgments.
 
 ## Table of Contents
 
