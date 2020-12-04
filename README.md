@@ -1,38 +1,38 @@
 # Bubble Sort
-
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![Bubble Sort Example](./Bubble-sort-example-300px.gif)
 
 
 ## About the Project
+In this project, we built a method #bubble_sort that takes an array and returns a sorted array without using #sort method.
 
-![Bubble Sort Example](./Bubble-sort-example-300px.gif)
-
-<!-- This project is based on the . -->
-
-Build a method #bubble_sort that takes an array and returns a sorted array without using #sort method.
 Also, we created a method #bubble_sort_by which sorts an array by accepting a block using yield.
+
 In #bubble_sort_by, the block will have two arguments that represent the two elements of the array that are currently being compared. The block’s return will be similar to the spaceship operator.
 We implemented the bubble sort algorithm using yield and passing a block to a method.
 
+
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-  - [Built With](#built-with)
-- [Live Demo](#live-demo)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Show your support](#show-your-support)
-- [License](#license)
-- [Authors](#authors)
-- [Acknowledgements](#acknowledgements)
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Live Demo](#live-demo)
+* [Getting Started](#getting-started)
+* [Authors](#authors)
+* [Contributing](#contributing)
+* [Show your support](#show-your-support)
+* [License](#license)
+* [Acknowledgements](#acknowledgements)
+
 
 ### Built With
 
 - [Ruby](https://www.ruby-lang.org/en/)
 
+
 ## Live Demo
 
 [Live Demo Link](https://repl.it/@yocoono/bubblesort#main.rb)
+
 
 ## Getting Started
 
@@ -50,24 +50,6 @@ To get a local copy up and running follow these simple example steps.
    `load "bubble_sort.rb"`
 9. Call methods on the pry and try it.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](../../issues).
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## License
-
-This project is [MIT](./LICENCE) licensed.
 
 ## Authors
 
@@ -82,6 +64,29 @@ This project is [MIT](./LICENCE) licensed.
 - GitHub: [@Div685](https://github.com/Div685)
 - Twitter: [@div_685](https://twitter.com/div_685)
 - LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-patel-2a15a6107)
+
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](../../issues).
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## License
+
+This project is [MIT](./LICENCE) licensed.
+
 
 ## Acknowledgments
 
